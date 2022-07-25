@@ -2,7 +2,7 @@
 
 ![Screen Shot 2022-07-25 at 3 31 23 AM](https://user-images.githubusercontent.com/88326256/180672728-f39ea355-a8fe-4dfe-9c5b-67e82359a6b6.png)
 
-
+## view it live -> https://iics-technologies.netlify.app/
 
 In the project directory, you can run:
 
