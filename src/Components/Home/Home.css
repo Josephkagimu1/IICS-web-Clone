@@ -60,3 +60,23 @@
     overflow-x: hidden;
     width: 2800px;
 }
+
+@media only screen and (min-width: 420px) and (max-width: 850px) {
+    .home-pics{
+        margin-top: 60px;
+        margin-left: -300px;
+        display: flex;
+        height: 400px;
+        overflow-x: hidden;
+        width: 1800px;
+    }
+
+    .official{
+        margin-top: -25px;
+        margin-left: 67%;
+    }
+
+    .home-msg{
+        font-size: 35px;
+    }
+}
